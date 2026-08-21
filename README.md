@@ -3,6 +3,13 @@
 
 ---
 
+### 🚀 Download Builds / 下载游戏 / Скачать билды
+* **EN:** You can download compiled builds for both games in the **[Releases Section]((https://github.com/akbarovskii/Unity-Gamedev-Evolution/releases/tag/v1.0.0-Portfolio-Builds))**.
+* **ZH:** 您可以在 **[版本发布页面 (Releases)]((https://github.com/akbarovskii/Unity-Gamedev-Evolution/releases/tag/v1.0.0-Portfolio-Builds))** 下载这两款 games 的编译版本。
+* **RU:** Скачать готовые билды для обеих игр можно в разделе **[Релизы (Releases)]((https://github.com/akbarovskii/Unity-Gamedev-Evolution/releases/tag/v1.0.0-Portfolio-Builds))**.
+
+---
+
 <a name="english"></a>
 # ⚙️ unity-gamedev-evolution
 
