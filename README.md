@@ -1,2 +1,2 @@
-# unity-gamedev-evolution
-Unity technical portfolio tracing my growth from foundational C# mechanics (2023) to advanced project integration and team workflows (2026). ⚙️
+# ⚙️ unity-gamedev-evolution
+Welcome to my Unity game development portfolio. Here, I present two projects: one created by me in 2023, and the other developed in 2026 as part of a two-person team. We created all the models, sounds, music, and other assets ourselves.
