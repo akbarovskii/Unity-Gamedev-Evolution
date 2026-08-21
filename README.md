@@ -1,9 +1,10 @@
 # Language / 语言 / Язык
-[🇬🇧 English](#-Unity-Gamedev-Evolution) | [🇨🇳 简体中文](#-Unity-Gamedev-Evolution-1) | [🇷🇺 Русский](#-Unity-Gamedev-Evolution-2)
+[🇬🇧 English](#english) | [🇨🇳 简体中文](#chinese) | [🇷🇺 Русский](#russian)
 
 ---
 
-# ⚙️ Unity-Gamedev-Evolution
+<a name="english"></a>
+# ⚙️ unity-gamedev-evolution
 
 Welcome to my Unity game development portfolio. Here, I present two projects: one created by me in 2023, and the other developed in 2026 as part of a two-person team. We created all the models, sounds, music, and other assets ourselves.
 
@@ -79,7 +80,8 @@ This critical experience became my most valuable lesson in software development.
 ---
 ---
 
-# ⚙️ Unity-Gamedev-Evolution-1
+<a name="chinese"></a>
+# ⚙️ unity-gamedev-evolution (CN)
 
 欢迎来到 my Unity 游戏开发作品集。在这里，我展示了两个项目：一个是由我个人在 2023 年独立完成的，另一个是在 2026 年作为两人团队共同开发的。所有的模型、音效、音乐和其他资产均由我们独立原创制作。
 
@@ -155,7 +157,8 @@ This critical experience became my most valuable lesson in software development.
 ---
 ---
 
-# ⚙️ Unity-Gamedev-Evolution-2
+<a name="russian"></a>
+# ⚙️ unity-gamedev-evolution (RU)
 
 Добро пожаловать в мое портфолио разработчика игр на Unity. Здесь я представляю два проекта: один из них был полностью создан мной в 2023 году, а второй разработан в 2026 году в команде из двух человек. Все модели, звуки, музыку и остальные ассеты мы создали самостоятельно.
 
