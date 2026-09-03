@@ -84,7 +84,7 @@ public class PlayerMovement : MonoBehaviour
 
             if (Physics.Raycast(ray, out hit, stepDistance + 0.1f, obstacleMask))
             {
-                Debug.Log("Âïåðåäè ñòåíà: " + hit.collider.name);
+                Debug.Log("Wall ahead: " + hit.collider.name);
                 return;
             }
 
