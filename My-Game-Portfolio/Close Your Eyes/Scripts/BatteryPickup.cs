@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class BatteryPickup : MonoBehaviour
 {
-    [Header("Настройки")]
+    [Header("Settings")]
     public float energyAmount = 25f;
 
-    [Header("Эффекты")]
+    [Header("Effects")]
     public AudioClip pickupSound;
     public GameObject pickupEffect;
 
@@ -22,7 +22,7 @@ public class BatteryPickup : MonoBehaviour
 
         if (flashlight == null)
         {
-            Debug.LogError("FlashlightSystem не найден в сцене!");
+            Debug.LogError("FlashlightSystem not found in the scene!");
         }
     }
 
@@ -50,7 +50,7 @@ public class BatteryPickup : MonoBehaviour
         if (flashlight != null)
         {
             flashlight.AddEnergy(energyAmount);
-            Debug.Log($"+{energyAmount} энергии");
+            Debug.Log($"+{energyAmount} energy added");
         }
 
         if (pickupEffect != null)
