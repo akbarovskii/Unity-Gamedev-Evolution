@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class FlashlightSystem : MonoBehaviour
 {
-    [Header("фонарик")]
+    [Header("Flashlight")]
     public Light flashlightLight;
     public float drainRate = 10f;
     public float defaultIntensity = 1.5f;
@@ -11,13 +11,13 @@ public class FlashlightSystem : MonoBehaviour
     [Header("UI")]
     public Image[] batteryIndicators;
 
-    [Header("звуки")]
+    [Header("Audio")]
     public AudioSource audioSource;
     public AudioClip flashlightOnSound;
     public AudioClip flashlightOffSound;
     public AudioClip flashlightFlickerSound;
 
-    [Header("настройки")]
+    [Header("Settings")]
     public float flickerSoundThreshold = 20f;
     public float minFlickerInterval = 0.5f;
     public float maxFlickerInterval = 2f;
