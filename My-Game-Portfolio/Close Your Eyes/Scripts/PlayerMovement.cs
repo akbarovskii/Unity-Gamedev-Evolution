@@ -2,17 +2,17 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [Header("движение")]
+    [Header("Movement")]
     public float stepDistance = 2f;
     public float turnDuration = 0.5f;
     public float moveDuration = 0.3f;
     public LayerMask obstacleMask;
 
-    [Header("дыхание")]
+    [Header("Breathing")]
     public float idleBobbingAmount = 0.02f;   
     public float idleBobbingSpeed = 1.5f;
 
-    [Header("звуки")]
+    [Header("Audio")]
     public AudioClip[] footstepSounds;          
     public AudioClip breathingSound;             
     public AudioSource footstepSource;           
@@ -84,7 +84,7 @@ public class PlayerMovement : MonoBehaviour
 
             if (Physics.Raycast(ray, out hit, stepDistance + 0.1f, obstacleMask))
             {
-                Debug.Log("Впереди стена: " + hit.collider.name);
+                Debug.Log("Г‚ГЇГҐГ°ГҐГ¤ГЁ Г±ГІГҐГ­Г : " + hit.collider.name);
                 return;
             }
 
