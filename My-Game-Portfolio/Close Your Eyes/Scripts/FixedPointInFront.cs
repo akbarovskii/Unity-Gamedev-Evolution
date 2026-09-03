@@ -5,7 +5,7 @@ public class FixedPointInFront : MonoBehaviour
    
     [SerializeField] private Transform targetObject;
 
-    [Header("позиция")]
+    [Header("Position")]
     [SerializeField] private float fixedX = 0f; 
     [SerializeField] private float fixedY = 0f; 
     [SerializeField] private float distanceAhead = 10f;
